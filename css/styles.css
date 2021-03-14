@@ -1,0 +1,52 @@
+@font-face {
+  font-family: "EB-Garamond";
+  src: url("../fonts/EBGaramond-Weight.ttf") format("truetype");
+}
+
+.navbar {
+  background-color: rgba(0, 0, 0, 0.87);
+}
+
+.navbar-item {
+  color: white;
+  opacity: 0.87;
+}
+
+.navbar-brand {
+  font-family: "EB-Garamond";
+  font-size: 1.4rem;
+}
+
+a.navbar-brand:hover {
+  color: white;
+  opacity: 0.87;
+}
+
+.navbar-logo {
+  padding-right: 0rem;
+}
+
+a.navbar-item:hover {
+  color: black;
+  opacity: 0.87;
+  background-color: #f4cccc;
+}
+
+.title {
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 4rem;
+  font-family: 'EB-Garamond';
+}
+
+.box {
+  padding: 4rem 3rem;
+}
+
+.banner {
+  padding: 6rem 0rem;
+}
+
+.buttons:last-child {
+  margin-bottom: 0rem;
+}
