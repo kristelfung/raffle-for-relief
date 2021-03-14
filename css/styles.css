@@ -24,20 +24,11 @@ h1, h2, h3, h4, h5, h6 {
   color: white;
 }
 
-.navbar-brand {
-  font-family: "EB-Garamond";
-  font-size: 1.4rem;
-}
-
-a.navbar-brand:hover {
-  color: white;
-}
-
 .navbar-logo {
   padding-right: 0rem;
 }
 
-a.navbar-item:hover {
+a.navbar-item:hover, a.navbar-item:focus {
   color: black;
   opacity: 0.87;
   background-color: #f4cccc;
@@ -73,4 +64,49 @@ a.navbar-item:hover {
 
 .img-history {
   border: 5px solid #de6769;
+}
+
+.center {
+  text-align: center;
+}
+
+.venmo {
+  padding: 0rem 1rem;
+  border-left: 5px solid #de6769;
+}
+
+.raffle-info {
+  font-size: 1.6rem;
+  background-color: #de6769;
+  color: white;
+  max-width: 30rem;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.raffle-info-two {
+  background-color: #e99a9a;
+}
+
+.prizes img {
+  height: 10rem;
+}
+
+.section-five {
+  background-image: url('../images/background-five.png');
+  background-size: cover;
+  background-position: bottom;
+}
+
+.section-five h2, .section-five h4 {
+  color: white;
+}
+
+.footer, .footer a {
+  background-color: rgba(0, 0, 0, 0.87);
+  color: white;
+}
+
+.right-footer {
+  text-align: right;
 }
