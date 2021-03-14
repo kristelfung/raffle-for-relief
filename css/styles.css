@@ -3,13 +3,25 @@
   src: url("../fonts/EBGaramond-Weight.ttf") format("truetype");
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: "EB-Garamond";
+}
+
+.pink {
+  color: #de6769;
+}
+
+.section-one {
+  background-image: url("../images/bg-img.png");
+  background-size: cover;
+}
+
 .navbar {
-  background-color: rgba(0, 0, 0, 0.87);
+  background-color: transparent;
 }
 
 .navbar-item {
   color: white;
-  opacity: 0.87;
 }
 
 .navbar-brand {
@@ -19,7 +31,6 @@
 
 a.navbar-brand:hover {
   color: white;
-  opacity: 0.87;
 }
 
 .navbar-logo {
@@ -49,4 +60,17 @@ a.navbar-item:hover {
 
 .buttons:last-child {
   margin-bottom: 0rem;
+}
+
+
+.section-two.box {
+  background-color: #de6769;
+}
+
+.section-three {
+  background-color: #f3cccd;
+}
+
+.img-history {
+  border: 5px solid #de6769;
 }

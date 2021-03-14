@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 600 600" style="enable-background:new 0 0 600 600;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st1{fill:#E06666;}
-</style>
-<polygon class="st0" points="299.4,559.3 137.7,559.3 137.7,326.6 17.2,326.6 299.4,40.7 300.6,40.7 582.8,326.6 462.9,326.6 
-	462.9,559.3 301.1,559.3 "/>
-<path class="st1" d="M443.7,187.3v69c0,0.6-0.4,1-1,1h-25.1c-0.5,0-0.9-0.4-1-0.9c-0.3-3.2-2.1-13.6-14-13.6
-	c-11.8,0-13.3,10.4-13.5,13.6c0,0.5-0.5,0.9-1,0.9h-26.4c-0.6,0-1-0.4-1-1v-69v-33v-70c0-0.6,0.4-1,1-1h26.4c0.5,0,1,0.4,1,0.9
-	c0.2,3.2,1.7,13.6,13.5,13.6c11.9,0,13.7-10.4,14-13.6c0-0.5,0.5-0.9,1-0.9h25.1c0.6,0,1,0.4,1,1v70V187.3z"/>
-</svg>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 595.546 548.5"><defs><style>.cls-1{fill:#fff;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:30px;}.cls-2{fill:#e06666;}</style></defs><polygon class="cls-1" points="297.198 533.5 135.427 533.5 135.427 300.876 15 300.876 297.221 15 298.324 15 580.546 300.876 460.646 300.876 460.646 533.5 298.874 533.5 297.198 533.5"/><path class="cls-2" d="M444.227,164.75v69a1,1,0,0,1-1,1H418.149a.992.992,0,0,1-1-.9c-.286-3.171-2.128-13.6-13.984-13.6-11.814,0-13.335,10.353-13.523,13.563a.994.994,0,0,1-1,.937H362.227a1,1,0,0,1-1-1v-172a1,1,0,0,1,1-1H388.65a.994.994,0,0,1,1,.937c.188,3.21,1.709,13.563,13.523,13.563,11.856,0,13.7-10.426,13.984-13.6a.993.993,0,0,1,1-.9h25.078a1,1,0,0,1,1,1v103Z" transform="translate(-2.227 -25.75)"/></svg>
