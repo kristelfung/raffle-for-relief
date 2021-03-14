@@ -1,3 +1,7 @@
+html {
+  min-width: 100%;
+}
+
 @font-face {
   font-family: "EB-Garamond";
   src: url("../fonts/EBGaramond-Weight.ttf") format("truetype");
@@ -43,6 +47,12 @@ a.navbar-item:hover, a.navbar-item:focus {
 
 .box {
   padding: 4rem 3rem;
+}
+
+@media (max-width: 800px) {
+  .box {
+    margin: 1rem;
+  }
 }
 
 .banner {
@@ -109,4 +119,8 @@ a.navbar-item:hover, a.navbar-item:focus {
 
 .right-footer {
   text-align: right;
+}
+
+.right-footer a {
+  text-decoration: underline;
 }
